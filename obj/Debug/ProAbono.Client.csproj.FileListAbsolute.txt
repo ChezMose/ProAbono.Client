@@ -1,6 +1,0 @@
-F:\Dev\Web\ProAbono\ClientLibs\ProAbono.Client\bin\Debug\ProAbono.Client.dll
-F:\Dev\Web\ProAbono\ClientLibs\ProAbono.Client\bin\Debug\ProAbono.Client.pdb
-F:\Dev\Web\ProAbono\ClientLibs\ProAbono.Client\bin\Debug\Newtonsoft.Json.dll
-F:\Dev\Web\ProAbono\ClientLibs\ProAbono.Client\obj\Debug\ProAbono.Client.csprojResolveAssemblyReference.cache
-F:\Dev\Web\ProAbono\ClientLibs\ProAbono.Client\obj\Debug\ProAbono.Client.dll
-F:\Dev\Web\ProAbono\ClientLibs\ProAbono.Client\obj\Debug\ProAbono.Client.pdb
